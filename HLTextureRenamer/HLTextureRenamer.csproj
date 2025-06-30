@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <AssemblyTitle>Half-Life Texture Renamer</AssemblyTitle>
+        <FileVersion>1.0.0.0</FileVersion>
+        <Product>Half-Life Texture Renamer</Product>
+        <Copyright>Copyright © 2025 Eggmin</Copyright>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+</Project>
